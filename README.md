@@ -10,7 +10,15 @@ I hope you enjoy too.
 Felipe Spencer Picada
 The creator of the DubaiXTClone 8088 PC/XT Compabible Motherboard
 
+DubaiXTClone & IBM5160 
+![Alt text](../pictures/image_010.jpg)
 
+
+Indicator LEDs
+![Alt text](../pictures/image_006.jpg)
+
+Top view
+![Alt text](../pictures/image_004.jpg)
 
 TLDR;
 8088 Turbo 8Mhz motherboard IBM5160/5150/PC-XT Compatible with static memory.
@@ -60,7 +68,7 @@ For future work, I see the work done By Tedd on Microcorelabs the most promising
 
 I see XTMax project and the V20 drop in replacement as one of of a kind and literally removing hardware boundaries from the PC XT era.
 
-I have included the source code for the PLD ATF16V8 there too, see CODE.PLD for details. Few more equations and a 74LS138 and some other chips can be replaced too for ROM.
+I have included the source code for the PLD ATF16V8 there too, see CODE.PLD for details. Few more equations and a 74LS138 and some other chips can be replaced too for ROM address match.
 
 Why Dubai Xt clone? The board was designed in Dubai :)
 
@@ -70,3 +78,30 @@ I hope you enjoy too.
 
 Felipe Spencer Picada
 The creator of the DubaiXTClone 8088 PC/XT Compatible Motherboard
+
+Running Windows 3.0
+![Alt text](../pictures/image_011.jpg)
+
+
+close ups
+![Alt text](../pictures/image_009.jpg)
+
+processor and latches
+![Alt text](../pictures/image_007.jpg)
+
+Leds
+![Alt text](../pictures/image_006.jpg)
+
+Designed in UAE
+![Alt text](../pictures/image_005.jpg)
+
+top view
+![Alt text](../pictures/image_004.jpg)
+
+running diagnostics
+![Alt text](../pictures/image_003.jpg)
+
+coming from production
+![Alt text](../pictures/image_001.jpg)
+
+
