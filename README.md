@@ -12,17 +12,17 @@ The creator of the DubaiXTClone(2026) - 8088 Turbo 8Mhz PC/XT Compabible Motherb
 
 <h3 align="center">DubaiXTClone and IBM5160</h3>
 <p align="center">
-  <img src="../pictures/image_010.jpg" alt="LEDs">
+  <img src="./pictures/image_010.jpg" alt="LEDs">
 </p>
 
 <h3 align="center">Indicator LEDs</h3>
 <p align="center">
-  <img src="../pictures/image_006.jpg" alt="LEDs">
+  <img src="./pictures/image_006.jpg" alt="LEDs">
 </p>
 
 <h3 align="center">Top view</h3>
 <p align="center">
-  <img src="../pictures/image_004.jpg" alt="Top view">
+  <img src="./pictures/image_004.jpg" alt="Top view">
 </p>
 
 TLDR;
@@ -86,42 +86,42 @@ The creator of the DubaiXTClone 8088 PC/XT Compatible Motherboard
 
 <h3 align="center">Running Windows 3.0</h3>
 <p align="center">
-  <img src="../pictures/image_011.jpg" alt="Running Windows 3.0">
+  <img src="./pictures/image_011.jpg" alt="Running Windows 3.0">
 </p>
 
 <h3 align="center">Close ups</h3>
 <p align="center">
-  <img src="../pictures/image_009.jpg" alt="Close ups">
+  <img src="./pictures/image_009.jpg" alt="Close ups">
 </p>
 
 <h3 align="center">Processor and latches</h3>
 <p align="center">
-  <img src="../pictures/image_007.jpg" alt="Processor and latches">
+  <img src="./pictures/image_007.jpg" alt="Processor and latches">
 </p>
 
 <h3 align="center">LEDs</h3>
 <p align="center">
-  <img src="../pictures/image_006.jpg" alt="LEDs">
+  <img src="./pictures/image_006.jpg" alt="LEDs">
 </p>
 
 <h3 align="center">Designed in UAE</h3>
 <p align="center">
-  <img src="../pictures/image_005.jpg" alt="Designed in UAE">
+  <img src="./pictures/image_005.jpg" alt="Designed in UAE">
 </p>
 
 <h3 align="center">Top view</h3>
 <p align="center">
-  <img src="../pictures/image_004.jpg" alt="Top view">
+  <img src="./pictures/image_004.jpg" alt="Top view">
 </p>
 
 <h3 align="center">Running diagnostics</h3>
 <p align="center">
-  <img src="../pictures/image_003.jpg" alt="Running diagnostics">
+  <img src="./pictures/image_003.jpg" alt="Running diagnostics">
 </p>
 
 <h3 align="center">Coming from production</h3>
 <p align="center">
-  <img src="../pictures/image_001.jpg" alt="Coming from production">
+  <img src="./pictures/image_001.jpg" alt="Coming from production">
 </p>
 
 
