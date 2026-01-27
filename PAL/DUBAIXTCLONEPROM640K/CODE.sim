@@ -1,0 +1,28 @@
+%SIGNAL
+PIN   7 =  A15 
+PIN   1 =  A16 
+PIN   2 =  A17 
+PIN   3 =  A18 
+PIN   4 =  A19 
+PIN  15 = !CSSTATIC 
+PIN  13 = !CSSTATIC128 
+PIN   5 =  PLANARRAM0 
+PIN   6 =  PLANARRAM1 
+PIN  12 =  RAMADDR 
+%END
+
+%FIELD
+%END
+
+%EQUATION
+CSSTATIC =>
+    !A19
+
+CSSTATIC128 =>
+    !A17 & !A18 & A19
+
+RAMADDR =>
+    !A19
+  # !A17 & !A18 & A19
+
+%END

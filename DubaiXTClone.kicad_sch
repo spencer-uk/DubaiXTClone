@@ -1,0 +1,483 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ac3c86ab-084e-42f6-87ca-c4b0142d8ff2")
+	(paper "A4")
+	(title_block
+		(title "DUBAI-XT-CLONE TURBO 8 Mhz")
+		(date "18/01/2026")
+		(rev "v2.0")
+		(company "Created by Felipe Spencer Picada")
+		(comment 1 "Based on Mad5160 (Madcat)")
+	)
+	(lib_symbols)
+	(sheet
+		(at 156.845 20.32)
+		(size 41.91 29.845)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "23463333-f7f3-4f23-8555-bd7f68b20556")
+		(property "Sheetname" "Sheet_4"
+			(at 156.845 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet4.kicad_sch"
+			(at 156.845 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 65.405 20.32)
+		(size 40.005 29.845)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "297b9b6a-a175-4c69-ab04-e1a6c5a6c538")
+		(property "Sheetname" "Sheet_2"
+			(at 65.405 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet2.kicad_sch"
+			(at 65.405 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.845 71.12)
+		(size 41.91 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "478d7c6b-eaef-405d-84b1-51c24d9589f7")
+		(property "Sheetname" "Sheet_9"
+			(at 156.845 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet9.kicad_sch"
+			(at 156.845 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.125 20.32)
+		(size 41.275 29.845)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "66db5a8e-229f-48cb-8657-576a3a35aa17")
+		(property "Sheetname" "Sheet_3"
+			(at 111.125 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet3.kicad_sch"
+			(at 111.125 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 201.93 71.12)
+		(size 43.18 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "68a30030-8dd9-4071-b44e-d748bd61ffe4")
+		(property "Sheetname" "Sheet_10"
+			(at 201.93 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet10.kicad_sch"
+			(at 201.93 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.765 20.32)
+		(size 33.655 29.845)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "921209e9-21b1-4dfe-a217-0f57a16b1ecc")
+		(property "Sheetname" "Sheet 1"
+			(at 24.765 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet1.kicad_sch"
+			(at 24.765 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "1")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.765 71.12)
+		(size 34.29 27.305)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aca52fbe-2189-4f56-80e9-b8157b8b750b")
+		(property "Sheetname" "Sheet_6"
+			(at 24.765 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet6.kicad_sch"
+			(at 24.765 99.0096 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 65.405 71.12)
+		(size 40.005 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bf7e6d96-66e3-4d49-8a4a-8b34d3cb92f3")
+		(property "Sheetname" "Sheet_7"
+			(at 65.405 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet7.kicad_sch"
+			(at 65.405 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 202.565 20.32)
+		(size 42.545 29.845)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c44b5552-e284-433f-baff-8fd8b9b71db6")
+		(property "Sheetname" "Sheet_5"
+			(at 202.565 19.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet5.kicad_sch"
+			(at 202.565 50.7496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 107.95)
+		(size 33.02 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ecb7256f-6d4a-4c91-817d-e60e1b9141f3")
+		(property "Sheetname" "Sheet_11"
+			(at 25.4 107.2384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sheet11.kicad_sch"
+			(at 25.4 133.9346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 71.12)
+		(size 41.91 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fe4ae14e-03b0-4858-831e-5da8f6de2de8")
+		(property "Sheetname" "Sheet_8"
+			(at 110.49 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sheet8.kicad_sch"
+			(at 110.49 98.3746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "DubaiXTClone"
+				(path "/ac3c86ab-084e-42f6-87ca-c4b0142d8ff2"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

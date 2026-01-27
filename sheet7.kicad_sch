@@ -1,0 +1,36 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "62c8f962-5997-4101-9599-69a31fd6f59e")
+	(paper "A2")
+	(title_block
+		(title "DUBAI-XT-CLONE TURBO 8 Mhz")
+		(date "18/01/2026")
+		(rev "v2.0")
+		(company "Created by Felipe Spencer Picada")
+		(comment 1 "Based on Mad5160 (Madcat)")
+	)
+	(lib_symbols)
+	(text_box "Place holder for RTC & XTMax"
+		(exclude_from_sim no)
+		(at 21.59 24.13 0)
+		(size 549.91 330.2)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type color)
+			(color 65 159 255 0.51)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "d4162e9b-b64d-4b80-8156-6482b97ba454")
+	)
+)
