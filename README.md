@@ -8,17 +8,22 @@ I had great pleasure designing, studifying existing other clones and creating th
 I hope you enjoy too.
 
 Felipe Spencer Picada
-The creator of the DubaiXTClone 8088 PC/XT Compabible Motherboard
+The creator of the DubaiXTClone(2026) - 8088 Turbo 8Mhz PC/XT Compabible Motherboard
 
-DubaiXTClone & IBM5160 
-![Alt text](../pictures/image_010.jpg)
+<h3 align="center">DubaiXTClone and IBM5160</h3>
+<p align="center">
+  <img src="../pictures/image_010.jpg" alt="LEDs">
+</p>
 
+<h3 align="center">Indicator LEDs</h3>
+<p align="center">
+  <img src="../pictures/image_006.jpg" alt="LEDs">
+</p>
 
-Indicator LEDs
-![Alt text](../pictures/image_006.jpg)
-
-Top view
-![Alt text](../pictures/image_004.jpg)
+<h3 align="center">Top view</h3>
+<p align="center">
+  <img src="../pictures/image_004.jpg" alt="Top view">
+</p>
 
 TLDR;
 8088 Turbo 8Mhz motherboard IBM5160/5150/PC-XT Compatible with static memory.
@@ -79,29 +84,45 @@ I hope you enjoy too.
 Felipe Spencer Picada
 The creator of the DubaiXTClone 8088 PC/XT Compatible Motherboard
 
-Running Windows 3.0
-![Alt text](../pictures/image_011.jpg)
+<h3 align="center">Running Windows 3.0</h3>
+<p align="center">
+  <img src="../pictures/image_011.jpg" alt="Running Windows 3.0">
+</p>
 
+<h3 align="center">Close ups</h3>
+<p align="center">
+  <img src="../pictures/image_009.jpg" alt="Close ups">
+</p>
 
-close ups
-![Alt text](../pictures/image_009.jpg)
+<h3 align="center">Processor and latches</h3>
+<p align="center">
+  <img src="../pictures/image_007.jpg" alt="Processor and latches">
+</p>
 
-processor and latches
-![Alt text](../pictures/image_007.jpg)
+<h3 align="center">LEDs</h3>
+<p align="center">
+  <img src="../pictures/image_006.jpg" alt="LEDs">
+</p>
 
-Leds
-![Alt text](../pictures/image_006.jpg)
+<h3 align="center">Designed in UAE</h3>
+<p align="center">
+  <img src="../pictures/image_005.jpg" alt="Designed in UAE">
+</p>
 
-Designed in UAE
-![Alt text](../pictures/image_005.jpg)
+<h3 align="center">Top view</h3>
+<p align="center">
+  <img src="../pictures/image_004.jpg" alt="Top view">
+</p>
 
-top view
-![Alt text](../pictures/image_004.jpg)
+<h3 align="center">Running diagnostics</h3>
+<p align="center">
+  <img src="../pictures/image_003.jpg" alt="Running diagnostics">
+</p>
 
-running diagnostics
-![Alt text](../pictures/image_003.jpg)
+<h3 align="center">Coming from production</h3>
+<p align="center">
+  <img src="../pictures/image_001.jpg" alt="Coming from production">
+</p>
 
-coming from production
-![Alt text](../pictures/image_001.jpg)
 
 
