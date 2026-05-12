@@ -216,8 +216,7 @@ The board was designed in **KiCad 9** as a **4-layer PCB**, with dedicated power
 
 - **Schematic PDF** — available in the `PDF/` folder
 - **PAL Source Code** — see `CODE.PLD` for the ATF16V8 equations
-- **Gerbers** — available in the `gerbers/` folder
-
+- **BOM** — see `ibom.html` for bill of materials in interactive form
 ---
 
 ## V1 Fixes
