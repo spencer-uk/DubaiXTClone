@@ -233,7 +233,7 @@ The first version of the board had a few routing errors identified during bring-
   <img src="./pictures/image_016.jpg" alt="V1 fix 2">
 </p>
 
-The schematic has been updated with those fixes and it has few notes on each change, it's just those capacitors and one wire replacing a wrong connection.
+The schematic has been updated with those fixes and it has few notes on each change, it's just those capacitors and two wires replacing some wrong connection. Once a new board is released those changes wil be incorporated.
 
 ---
 
