@@ -32,7 +32,18 @@ The result is an **8088 Turbo 8MHz PC/XT compatible motherboard** with static RA
 > — Felipe Spencer Picada
 
 ---
+## 🇦🇪 Made in Emirates — Proudly Designed in the UAE
 
+The DubaiXTClone is believed to be the first Turbo PC/XT clone motherboard ever designed and built in the United Arab Emirates. From schematic to silkscreen, every design decision was made in Dubai.
+
+The UAE has a proud and growing tradition of technology and innovation. This board is a small contribution to that story — a handcrafted piece of open hardware.
+
+<h3 align="center">Designed in UAE</h3>
+<p align="center">
+  <img src="./pictures/image_005.jpg" alt="Designed in UAE">
+</p>
+
+---
 ## Overview
 
 **TLDR:** 8088 Turbo 8MHz motherboard, IBM 5160/5150/PC-XT compatible, with static RAM and zero DMA drama.
@@ -106,7 +117,7 @@ One of the most distinctive features of the DubaiXTClone is its real-time bus ac
 
 ## Screenshots
 
-<h3 align="center">LMChat — Talking to a Local LLM via LM Studio</h3>
+<h3 align="center">LMChat — Talking to a Local LLM via LM Studio.ai</h3>
 
 <h3 align="center">Running ELKS</h3>
 <p align="center">
@@ -142,12 +153,8 @@ One of the most distinctive features of the DubaiXTClone is its real-time bus ac
   <img src="./pictures/image_007.jpg" alt="Processor and latches">
 </p>
 
-<h3 align="center">Designed in UAE</h3>
-<p align="center">
-  <img src="./pictures/image_005.jpg" alt="Designed in UAE">
-</p>
 
-<h3 align="center">Coming from Production</h3>
+<h3 align="center">PCB Coming from Production</h3>
 <p align="center">
   <img src="./pictures/image_001.jpg" alt="Coming from production">
 </p>
@@ -160,7 +167,7 @@ The board uses a DIP switch bank to configure key system parameters at boot time
 
 <h3 align="center">DIP Switch — Close Up</h3>
 <p align="center">
-  <img src="./pictures/dipswitch_closeup.jpg" alt="DIP Switch Close Up">
+  <img src="./pictures/image_017.jpg" alt="DIP Switch Close Up">
 </p>
 
 ---
@@ -215,17 +222,19 @@ The board was designed in **KiCad 9** as a **4-layer PCB**, with dedicated power
 
 ## V1 Fixes
 
-The first version of the board had a few routing errors identified during bring-up. These were corrected with short wire bridges on the bottom copper layer — a completely normal part of first-article hardware development. The board was fully functional after the corrections were applied, and all fixes have been incorporated into subsequent revisions.
+The first version of the board had a few routing errors identified during bring-up. These were corrected with short wire bridges on the bottom copper layer — a completely normal part of first-article hardware development. The board was fully functional after the corrections were applied.
 
-<h3 align="center">V1 Fix — Bottom Layer Wire Correction #1</h3>
+<h3 align="center">V1 Fix — Bottom Layer Wire Correction Picture #1</h3>
 <p align="center">
-  <img src="./pictures/fix_001.jpg" alt="V1 fix 1">
+  <img src="./pictures/image_015.jpg" alt="V1 fix 1">
 </p>
 
-<h3 align="center">V1 Fix — Bottom Layer Wire Correction #2</h3>
+<h3 align="center">V1 Fix — Bottom Layer Wire Correction Picture #2</h3>
 <p align="center">
-  <img src="./pictures/fix_002.jpg" alt="V1 fix 2">
+  <img src="./pictures/image_016.jpg" alt="V1 fix 2">
 </p>
+
+The schematic has been updated with those fixes and it has few notes on each change, it's just those capacitors and one wire replacing a wrong connection.
 
 ---
 
@@ -239,42 +248,17 @@ There are several natural next steps for this design — replacing the ROM decod
 
 <h3 align="center">Picture 1</h3>
 <p align="center">
-  <img src="./pictures/other_001.jpg" alt="Picture 1">
+  <img src="./pictures/image_018.jpg" alt="Picture 1">
 </p>
 
 <h3 align="center">Picture 2</h3>
 <p align="center">
-  <img src="./pictures/other_002.jpg" alt="Picture 2">
+  <img src="./pictures/image_019.jpg" alt="Picture 2">
 </p>
 
 <h3 align="center">Picture 3</h3>
 <p align="center">
-  <img src="./pictures/other_003.jpg" alt="Picture 3">
-</p>
-
-<h3 align="center">Picture 4</h3>
-<p align="center">
-  <img src="./pictures/other_004.jpg" alt="Picture 4">
-</p>
-
-<h3 align="center">Picture 5</h3>
-<p align="center">
-  <img src="./pictures/other_005.jpg" alt="Picture 5">
-</p>
-
----
-
-## 🇦🇪 Made in Emirates — Proudly Designed in the UAE
-
-The DubaiXTClone is believed to be the first Turbo PC/XT clone motherboard ever designed and built in the United Arab Emirates. From schematic to silkscreen, every design decision was made in Dubai.
-
-The UAE has a proud and growing tradition of technology and innovation. This board is a small contribution to that story — a handcrafted piece of open hardware, built with the same spirit of ambition that defines this country.
-
-The name is not incidental. **Dubai** is in the name because it belongs there.
-
-<h3 align="center">Designed in UAE</h3>
-<p align="center">
-  <img src="./pictures/image_005.jpg" alt="Designed in UAE">
+  <img src="./pictures/image_020.jpg" alt="Picture 3">
 </p>
 
 ---
