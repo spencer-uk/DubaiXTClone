@@ -1,4 +1,4 @@
-# DubaiXTClone — 8088 Turbo PC/XT Compatible Motherboard
+# DubaiXTClone — IBM PC/XT Compatible Turbo Motherboard
 
 > **🤖 This board talks to LLMs!** Meet **[LMChat](https://github.com/spencer-uk/LMChat)** — the world's first [LM Studio](https://lmstudio.ai) AI client for V20/8088 IBM PC XT computers. Two chat clients (MS-DOS and ELKS) that let the DubaiXTClone hold a real conversation with a modern Large Language Model — no cloud, no API key, no subscription.
 
@@ -11,7 +11,7 @@
 
 Top ->DubaiXTClone (New Design)
 
-Bottom ->IBM5160 (IBM PC Design)
+Bottom ->IBM5160 (IBM PC XT Design)
 
 <h3 align="center">Top view</h3>
 <p align="center">
