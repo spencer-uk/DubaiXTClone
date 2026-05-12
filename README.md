@@ -106,19 +106,16 @@ One of the most distinctive features of the DubaiXTClone is its real-time bus ac
 
 ## Screenshots
 
-<h3 align="center">LMChat — Talking to a Local LLM from a 1980s PC</h3>
-<p align="center">
-  <img src="./pictures/screenshot_lmchat.jpg" alt="LMChat running on DubaiXTClone">
-</p>
+<h3 align="center">LMChat — Talking to a Local LLM via LM Studio</h3>
 
 <h3 align="center">Running ELKS</h3>
 <p align="center">
-  <img src="./pictures/screenshot_elks.jpg" alt="ELKS">
+  <img src="./pictures/image_013.jpg" alt="ELKS">
 </p>
 
 <h3 align="center">Running MS-DOS</h3>
 <p align="center">
-  <img src="./pictures/screenshot_msdos.jpg" alt="MS-DOS">
+  <img src="./pictures/image_014.jpg" alt="MS-DOS">
 </p>
 
 <h3 align="center">Running Windows 3.0</h3>
