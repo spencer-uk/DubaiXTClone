@@ -31,17 +31,6 @@ The result is an **8088 Turbo 8MHz PC/XT compatible motherboard** with static RA
 > *"I had great pleasure studying existing clones and creating the board I always wanted to have."*
 > — Felipe Spencer Picada
 
----
-## 🇦🇪 Made in Emirates — Proudly Designed in the UAE
-
-The DubaiXTClone is believed to be the first Turbo PC/XT clone motherboard ever designed and built in the United Arab Emirates. From schematic to silkscreen, every design decision was made in Dubai.
-
-The UAE has a proud and growing tradition of technology and innovation. This board is a small contribution to that story — a handcrafted piece of open hardware.
-
-<h3 align="center">Designed in UAE</h3>
-<p align="center">
-  <img src="./pictures/image_005.jpg" alt="Designed in UAE">
-</p>
 
 ---
 ## Overview
@@ -284,9 +273,15 @@ A project like this does not happen in isolation. These people, companies, and c
 
 ---
 
+## Disclaimer
+The project is provided on a "as is" basis without any warranty. Enjoy at your own risk.
+
+---
 ## License
 
 Copying permitted — see [LICENSE](./LICENSE) for full details.
 
 © 2026 Felipe Spencer Picada
 Based on mad5160 by madcatse (MIT License)
+
+
